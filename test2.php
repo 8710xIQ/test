@@ -1,0 +1,3 @@
+<?php
+sysytem("/bin/ls");
+?>
